@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/HarshSehota/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HarshSehota/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/HarshSehota/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HarshSehota/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshSehota/leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/HarshSehota/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
