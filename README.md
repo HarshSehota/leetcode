@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/HarshSehota/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/HarshSehota/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
